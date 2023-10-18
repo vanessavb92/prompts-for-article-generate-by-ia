@@ -1,8 +1,3 @@
-<p align="center">
-    <img width="100" src="github/assets/cat.jpeg
-    ">
-</p>
-
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
@@ -12,6 +7,11 @@
 </p>
 
 -------
+<p align="center">
+    <img width="100" src="github/assets/cat.jpeg
+    ">
+</p>
+
 # Projeto artigo técnico gerado por I.A.s
 
 
