@@ -8,7 +8,7 @@
 
 -------
 <p align="center">
-    <img width="100" src="github/assets/cat.jpeg
+    <img width="100" src="https://lexica.art/prompt/61a0e166-3e53-4f79-b188-18de7facb4ce
     ">
 </p>
 
