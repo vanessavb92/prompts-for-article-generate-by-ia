@@ -14,6 +14,13 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
+<p align="center">
+<img 
+    src="./github/assets/iaimage.png"
+    width="300"
+/>
+</p>
+
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso  na plataforma da [DIO](https://dio.me).
 
